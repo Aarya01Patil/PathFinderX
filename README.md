@@ -8,7 +8,7 @@ Certainly! Here's a polished, rephrased version of your README file, keeping the
 
 Welcome to **PathFinderX**—the **developer-centric graph algorithm visualizer** that redefines interactive learning. More than just a tool, PathFinderX is a **live, dynamic graph engine** crafted to help you **simulate, experiment with, and master graph algorithms** like never before. Whether you’re debugging A*, diving into BFS, or building custom graphs, PathFinderX transforms theory into an **engaging, hands-on adventure**.
 
-🌟 **Experience it live** → [pathfinderx-app.vercel.app](https://path-finder-x-algo.vercel.app/)
+🌟 **Experience it live** → [Live Link](https://path-finder-x-algo.vercel.app/)
 
 ---
 
