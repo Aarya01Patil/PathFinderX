@@ -14,7 +14,7 @@ Welcome to **PathFinderX**—the **developer-centric graph algorithm visualizer*
 
 ## 🎥 See PathFinderX in Action
 
-<video src="assets/video/demo-working.mp4" controls width="800" >
+[▶️ Watch the demo video](assets/video/demo-working.mp4)
   Your browser does not support the video tag.
 </video>
 
