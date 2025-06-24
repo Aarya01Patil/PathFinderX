@@ -1,103 +1,100 @@
-# ⚡️ PathFinderX – Your Ultimate Graph Algorithm Playground
-
-> Built with ⚙️ **Next.js 15** · 🧠 **React Flow** · 🎯 **TypeScript** · 🎨 **Tailwind CSS v4**
-
-Welcome to **PathFinderX**, the **developer-first graph algorithm visualizer** that's anything but ordinary. This isn't just a tool—it's a **real-time, interactive graph engine** designed to help you **simulate, test, and master graph algorithms** with unparalleled clarity. Whether you're debugging A*, exploring BFS, or crafting custom graphs, PathFinderX turns theory into an **intuitive, hands-on experience**.
-
-🌟 **Try it live** → [pathfinderx-app.vercel.app](https://pathfinderx-app.vercel.app)
+Certainly! Here's a polished, rephrased version of your README file, keeping the structure, details, and enthusiasm intact while providing a fresh voice:
 
 ---
 
-## 🎥 Sneak Peek
+# ⚡️ PathFinderX – The Ultimate Playground for Graph Algorithms
 
-Explore PathFinderX's dynamic visualizations in action:
+> Powered by ⚙️ **Next.js 15** · 🧠 **React Flow** · 🎯 **TypeScript** · 🎨 **Tailwind CSS v4**
 
-<div align="center">
-  <h3>Grid Mode</h3>
-  <img src="./src/assets/image/demo-grid.gif" alt="Grid Mode" width="800"/>
-  <p><em>A* blazing through an interactive grid with island terrain</em></p>
+Welcome to **PathFinderX**—the **developer-centric graph algorithm visualizer** that redefines interactive learning. More than just a tool, PathFinderX is a **live, dynamic graph engine** crafted to help you **simulate, experiment with, and master graph algorithms** like never before. Whether you’re debugging A*, diving into BFS, or building custom graphs, PathFinderX transforms theory into an **engaging, hands-on adventure**.
 
-  <h3>Network Mode</h3>
-  <img src="./src/assets/image/demo-graph.gif" alt="Network Mode" width="800"/>
-  <p><em>Traversing the USA map from Vancouver to Miami with A*</em></p>
-</div>
+🌟 **Experience it live** → [pathfinderx-app.vercel.app](https://path-finder-x-algo.vercel.app/)
 
 ---
 
-## 🔥 Why PathFinderX Rocks
+## 🎥 See PathFinderX in Action
 
-Forget static diagrams and boring textbooks. PathFinderX is your playground for graph algorithms, packed with features to spark your curiosity:
+<video src="assets/video/demo-working.mp4" controls width="800" >
+  Your browser does not support the video tag.
+</video>
 
-- 🏗️ **Build graphs your way**: Drag, drop, and connect nodes with precision.
-- 🔄 **Grid or network? You choose**: Seamlessly switch modes to match your vibe.
-- 🎬 **Watch algorithms come alive**: Visualize A*, Dijkstra, BFS, and DFS with smooth animations.
-- 🌍 **Real-world templates**: Experiment with USA maps or custom regions.
-- 🌊 **Organic terrain generation**: Create solvable mazes with island-style walls.
-- 🌗 **Light or dark mode**: Customize themes, speed, weights, and directions.
-- 🔗 **Share your creations**: Export and collaborate with stateful URLs.
+Check out PathFinderX's powerful visualizations:
 
-Built for **performance, extensibility, and a slick UX**, PathFinderX is your go-to for mastering graphs.
+  
+  Grid Mode:Watch A* blaze through an interactive grid with challenging island terrain.
+  &
+  Network Mode:Navigate the USA map from Vancouver to Miami using A* search.
+  
+---
+
+## 🔥 Why Choose PathFinderX?
+
+Say goodbye to static diagrams and dry textbooks. PathFinderX is your interactive sandbox for graph algorithms, packed with features designed to ignite your curiosity:
+
+- 🏗️ **Custom graph building**: Effortlessly drag, drop, and connect nodes.
+- 🔄 **Switch between grid and network**: Adapt the workspace to your needs.
+- 🎬 **Live algorithm animations**: Visualize A*, Dijkstra, BFS, and DFS in real time.
+- 🌍 **Pre-built templates**: Experiment with real-world maps or your own regions.
+- 🌊 **Smart terrain generation**: Create solvable mazes with organic, island-style walls.
+- 🌗 **Theme customization**: Toggle light/dark mode, adjust speed, weights, and directions.
+- 🔗 **Easy sharing**: Export and collaborate using stateful URLs.
+
+Designed for **performance, flexibility, and an exceptional user experience**, PathFinderX is your go-to resource for mastering graph algorithms.
 
 ---
 
-## 🛠️ Engineered for Devs, Not Just Learners
+## 🛠️ Built for Developers, Not Just Learners
 
-**Tech stack that packs a punch:**
+**Cutting-edge tech stack:**
 
-| Layer | Tech |
-|-------|------|
-| **Framework** | [Next.js 15 App Router](https://nextjs.org/) |
-| **UI** | [React Flow](https://reactflow.dev/), Tailwind CSS v4, Framer Motion |
-| **State** | Zustand |
-| **Typing** | TypeScript |
-| **Hosting** | Vercel |
+| Layer        | Technology                                              |
+|--------------|--------------------------------------------------------|
+| **Framework**| [Next.js 15 App Router](https://nextjs.org/)           |
+| **UI**       | [React Flow](https://reactflow.dev/), Tailwind CSS v4, Framer Motion |
+| **State**    | Zustand                                                |
+| **Typing**   | TypeScript                                             |
+| **Hosting**  | Vercel                                                 |
 
-> This isn't a toy—it's a **modular, scalable system** ready for your wildest graph experiments.
-
----
-
-## 🧮 Algorithms That Shine
-
-PathFinderX brings classic algorithms to life with vibrant visualizations:
-
-| Algorithm | Mode | Weighted | Directed |
-|-----------|------|----------|----------|
-| **A*** | Grid + Network | ✅ | ✅ |
-| **Dijkstra** | Grid + Network | ✅ | ✅ |
-| **BFS** | Grid + Network | ❌ | ✅ |
-| **DFS** | Grid + Network | ❌ | ✅ |
-
+> Not just a toy—PathFinderX is a **modular, scalable platform** for your boldest graph experiments.
 
 ---
 
-## ⚡ Power Features for Devs
+## 🧮 Algorithms Brought to Life
 
-- 🎥 **Real-time animations**: Control traversal speed for crystal-clear insights.
-- 🧱 **Smart terrain generation**: Walls and mazes that always guarantee a solution.
-- 🌐 **Flexible graph types**: Freeform, grid-based, or location-driven maps.
-- 🧮 **Customizable graphs**: Tweak weights, directions, and adjacency models.
-- 🔄 **Share instantly**: Serialize graphs into URLs for easy collaboration.
+PathFinderX animates classic algorithms with vivid, interactive visualizations:
 
+| Algorithm   | Modes         | Weighted | Directed |
+|-------------|--------------|----------|----------|
+| **A***      | Grid + Network | ✅      | ✅       |
+| **Dijkstra**| Grid + Network | ✅      | ✅       |
+| **BFS**     | Grid + Network | ❌      | ✅       |
+| **DFS**     | Grid + Network | ❌      | ✅       |
 
-🔗 Open `http://localhost:3000` and start exploring!
+---
+
+## ⚡ Power Features for Developers
+
+- 🎥 **Real-time animations**: Adjust traversal speed for clear, insightful learning.
+- 🧱 **Intelligent terrain**: Generate mazes and walls that always guarantee a solution.
+- 🌐 **Versatile graph types**: Choose from freeform, grid, or location-based maps.
+- 🧮 **Full graph customization**: Modify weights, directions, and adjacency models.
+- 🔄 **Instant sharing**: Serialize your graphs into URLs for seamless collaboration.
+
+Just launch `http://localhost:3000` and start exploring!
 
 ---
 
 ## 🌟 What's Next for PathFinderX?
 
-We're just getting started! Here's what's on the horizon:
+We're just getting started! Upcoming features include:
 
-- ⛓️ **Full weighted directed graph support** for all algorithms.
-- 🧠 **AI-powered hints** to guide you through algorithms step-by-step.
-- 📦 **JSON exports** for real-world datasets.
+- ⛓️ **Comprehensive weighted directed graph support** for all algorithms.
+- 🧠 **AI-powered hints** to guide you step-by-step through algorithms.
+- 📦 **JSON exports** for integrating real-world datasets.
 - 🧭 **New algorithms**: Floyd-Warshall, Bellman-Ford, Prim, Kruskal.
 
-Got a killer algorithm, UI tweak, or new feature in mind? Contribute to PathFinderX!
+Have an idea for a new algorithm, UI improvement, or feature? Contribute to PathFinderX!
 
-Submit a PR and become a **PathFinderX legend**. Have suggestions? [Open an issue](https://github.com/Lakshman-99/pathfinderx/issues).
+✅ Use, remix, and build on PathFinderX for **non-commercial projects**—just give proper credit.
 
-✅ Use, remix, and build upon PathFinderX for **non-commercial projects** with proper credit.
-
-> **PathFinderX**: Where graphs meet creativity. Built for devs, by devs. Let's explore the path ahead together! 🚀
-
----
+> **PathFinderX**: Where creativity meets graphs. Built by developers, for developers. Ready to chart your course? 🚀
