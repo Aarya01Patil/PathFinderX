@@ -17,7 +17,8 @@ Welcome to **PathFinderX**—the **developer-centric graph algorithm visualizer*
 ▶️ Watch the demo video
 
 
-Uploading demo-working.mp4…
+https://github.com/user-attachments/assets/b77a53e0-9675-46a6-b5cb-3244ff038ef9
+
 
 
 Check out PathFinderX's powerful visualizations:
