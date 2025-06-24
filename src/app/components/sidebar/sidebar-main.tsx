@@ -41,8 +41,6 @@ import { RadioGroup, RadioGroupItem } from "@/components/ui/radio-group";
 import { Button } from "@/components/ui/button";
 import loading2 from "react-useanimations/lib/loading2";
 import UseAnimations from "react-useanimations";
-import Image from "next/image";
-import logo from "@/assets/image/logo.png";
 import { useGraphStore, Maze, Algorithm } from "@/app/store/gridStore";
 import { getGridDefaults, getRowColBasedCellSize } from "../../utils/util";
 import {
