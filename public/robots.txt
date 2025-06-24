@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://traversex-algo.vercel.app
+
+# Sitemaps
+Sitemap: https://traversex-algo.vercel.app/sitemap.xml
